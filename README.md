@@ -1,4 +1,6 @@
 # Gmap_scraping
+使用ライブラリ　selenium-webdriver
+
 scraping3は単体のビジネス情報を取得して出力する
 
 scraping4は複数のビジネス情報を取得しスプレッドシートへ吐き出す
