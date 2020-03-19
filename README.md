@@ -1,8 +1,8 @@
 # Gmap_scraping
-##概要
+## 概要
 任意の位置・キーワードで検索したGmapでの結果を取得してスプレッドシートへ出力する。
 
-###使用ライブラリ
+### 使用ライブラリ
 selenium-webdriver
 google-drive
 
